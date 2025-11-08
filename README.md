@@ -31,7 +31,7 @@
     <img width="315" align="center" src="tải xuống.svg" alt="Top Languages" />
   </a>
   <a href="#" title="Trungquandev">
-    <img align="right" width="434" src="api.svg" alt="Top Languages" />
+    <img align="right" width="434" src="VA_Stats.svg" alt="Top Languages" />
   </a>
 </div>
 
