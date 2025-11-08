@@ -27,7 +27,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="VAthedev">
     <img width="315" align="center" src="tải xuống.svg" alt="Top Languages" />
   </a>
   <a href="#" title="Trungquandev">
@@ -42,19 +42,19 @@
 
   </a>
   <a href="https://www.facebook.com/VacT.01" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="VacT.01" />
   </a>
   <a href="" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="VacT.01" />
   </a>
   <a href="" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="VacT.01" />
   </a>
   <a href="https://www.instagram.com/1.vact" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="VacT.01" />
   </a>
   <a href="mailto:24521972@gm.uit.edu.vn" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="VacT.01" />
   </a>
 </div>
 
