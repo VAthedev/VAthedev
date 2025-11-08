@@ -31,7 +31,7 @@
     <img width="315" align="center" src="tải xuống.svg" alt="Top Languages" />
   </a>
   <a href="#" title="Trungquandev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
+    <img align="right" width="434" src="api.svg" alt="Top Languages" />
   </a>
 </div>
 
