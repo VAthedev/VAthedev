@@ -1,4 +1,3 @@
-<!-- Trungquandev -->
 <a href="#" target="_blank">
   <img src="../svg/VAthedev.svg" width="1200" alt="VAthedev-official" />
 </a>
