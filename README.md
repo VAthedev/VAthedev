@@ -99,7 +99,7 @@
 <br>
 <div align=center>
   <a href="#" title="VAthedev">
-    <img width="315" align="center" src="tải xuống.svg" alt="Top Languages" />
+    <img width="315" align="left" src="tải xuống.svg" alt="Top Languages" />
   </a>
   <a href="#" title="Trungquandev">
     <img align="right" width="434" src="VA_Stats.svg" alt="Top Languages" />
