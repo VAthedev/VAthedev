@@ -23,21 +23,24 @@
 
 
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="VAthedev">
-    <img width="315" align="center" src="tải xuống.svg" alt="Top Languages" />
-  </a>
-  <a href="#" title="Trungquandev">
-    <img align="right" width="434" src="VA_Stats.svg" alt="Top Languages" />
-  </a>
-  <p align="right">
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"
-      alt="About Me GIF"
-      width="180px"
-      >
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="315" src="tải xuống.svg" alt="VAthedev" />
+    </td>
+    <td align="center">
+      <img width="434" src="VA_Stats.svg" alt="Trungquandev Stats" />
+    </td>
+    <td align="center">
+      <img 
+        width="180" 
+        src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" 
+        alt="About Me GIF"
+      />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br>
