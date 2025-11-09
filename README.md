@@ -98,7 +98,7 @@
 
 <br>
 <p align="center">
-  <h2 align="center"> ⭐ GitHub Stats  ⭐</h2>
+  <h2 align="left"> ⭐ GitHub Stats  ⭐</h2>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
   ![](https://raw.githubusercontent.com/VAthedev/VAthedev/main/t%E1%BA%A3i%20xu%E1%BB%91ng.svg)
@@ -108,7 +108,7 @@
 </p>
 
 <br>
-<h2 align="center">👑 Where to find me 👑</h2>
+<h2 align="left">👑 Where to find me 👑</h2>
 <br>
 <!-- https://icons8.com -->
 
