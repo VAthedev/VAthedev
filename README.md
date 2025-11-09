@@ -98,19 +98,12 @@
 
 <br>
 <h2 align="center"> ⭐ GitHub Stats  ⭐</h2>
-<div align=center>
-  <a href="#" title="VAthedev">
-    <img width="315" align="center" src="tải xuống.svg" alt="Top Languages" />
-  </a>
-  <a href="#" title="Trungquandev">
-    <img align="right" width="434" src="VA_Stats.svg" alt="Top Languages" />
-  </a>
-  <p align="right">
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"
-      alt="About Me GIF"
-      width="180px"
-      >
-</div>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
+![](https://raw.githubusercontent.com/VAthedev/VAthedev/main/t%E1%BA%A3i%20xu%E1%BB%91ng.svg)
+![](https://raw.githubusercontent.com/VAthedev/VAthedev/main/VA_Stats.svg)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MdnadeemSarwar&theme=radical&hide_border=false)
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 
 
 <br>
