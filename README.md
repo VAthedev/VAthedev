@@ -105,7 +105,7 @@
     <img width="315" align="left" src="tải xuống.svg" alt="Top Languages" />
   </a>
   <a href="#" title="Trungquandev">
-    <img align="right" width="434" src="VA_Stats.svg" alt="Top Languages" />
+    <img align="right" width="315" src="VA_Stats.svg" alt="Top Languages" />
   </a>
   <p align="right">
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"
