@@ -61,4 +61,4 @@
 
 <br/>
 <h2 align="center">🏆 GitHub Trophies</h2>
-    <img src="https://github-profile-trophy.vercel.app/?username=MdnadeemSarwar&theme=radical&no-frame=false&no-bg=true&margin-w=4"
+    <img src="tropy.svg" alt="Top Languages" />
