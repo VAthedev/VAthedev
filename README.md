@@ -33,10 +33,11 @@
   <a href="#" title="Trungquandev">
     <img align="right" width="434" src="VA_Stats.svg" alt="Top Languages" />
   </a>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 </div>
 
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">👑 Where to find me 👑</h2>
 <br>
 <!-- https://icons8.com -->
 
@@ -59,3 +60,5 @@
 </div>
 
 <br>
+<h2 align="center">🏆 GitHub Trophies</h2>
+    <img src="https://github-profile-trophy.vercel.app/?username=MdnadeemSarwar&theme=radical&no-frame=false&no-bg=true&margin-w=4"
