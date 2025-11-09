@@ -131,5 +131,5 @@
 </div>
 
 <br/>
-<h2 align="center">🏆 GitHub Trophies🏆</h2>
+<h2 align="left">🏆 GitHub Trophies🏆</h2>
     <img src="tropy.svg" alt="Top Languages" />
