@@ -32,7 +32,7 @@
   </a>
 
   
-  <p align="center">
+  <p align="right">
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"
       alt="About Me GIF"
       width="180px"
