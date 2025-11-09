@@ -23,24 +23,19 @@
 
 
 <br>
-<table align="center">
-  <tr>
-    <td align="center">
-      <img width="315" src="tải xuống.svg" alt="VAthedev" />
-    </td>
-    <td align="center">
-      <img width="434" src="VA_Stats.svg" alt="Trungquandev Stats" />
-    </td>
-    <td align="center">
-      <img 
-        width="180" 
-        src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" 
-        alt="About Me GIF"
-      />
-    </td>
-  </tr>
-</table>
-
+<div align=center>
+  <a href="#" title="VAthedev">
+    <img width="315" align="center" src="tải xuống.svg" alt="Top Languages" />
+  </a>
+  <a href="#" title="Trungquandev">
+    <img align="right" width="434" src="VA_Stats.svg" alt="Top Languages" />
+  </a>
+  <img
+    src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"
+    alt="About Me GIF"
+    width="180px"
+    style="display: block; margin: 0 auto;"
+  >
 </div>
 
 <br>
