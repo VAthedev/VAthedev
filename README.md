@@ -97,9 +97,10 @@
 </p>
 
 <br>
-<h2 align="center"> ⭐ GitHub Stats  ⭐</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
+  <h2 align="center"> ⭐ GitHub Stats  ⭐</h2>
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
   ![](https://raw.githubusercontent.com/VAthedev/VAthedev/main/t%E1%BA%A3i%20xu%E1%BB%91ng.svg)
   ![](https://raw.githubusercontent.com/VAthedev/VAthedev/main/VA_Stats.svg)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=MdnadeemSarwar&theme=radical&hide_border=false)
