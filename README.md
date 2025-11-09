@@ -32,10 +32,10 @@
   </a>
 
   
-  <p align="right">
+  <p align="center">
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"
       alt="About Me GIF"
-      width="240px"
+      width="180px"
       >
 </div>
 
