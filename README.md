@@ -5,7 +5,7 @@
 <h2 align="center">🖥️ Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<p align="center">
+<p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
@@ -46,7 +46,60 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
   </a>
-  <a href="https://www.arduino.cc/250" align="left" src="tải xuống.svg" alt="Top Languages" />
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+
+  <p align="center">
+    <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    </a>
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+    </a>
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+    </a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+    </a>
+    <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+    </a>
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+    </a>
+    <a href="https://graphql.org" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+    </a>
+      <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    </a>
+  </p>
+</p>
+
+<br>
+<div align=center>
+  <a href="#" title="VAthedev">
+    <img width="315" align="left" src="tải xuống.svg" alt="Top Languages" />
   </a>
   <a href="#" title="Trungquandev">
     <img align="right" width="434" src="VA_Stats.svg" alt="Top Languages" />
