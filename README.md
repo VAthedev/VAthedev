@@ -5,7 +5,7 @@
 <h2 align="center">🖥️ Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<p align="left">
+<p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
@@ -99,12 +99,12 @@
 <br>
 <h2 align="center"> ⭐ GitHub Stats  ⭐</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-![](https://raw.githubusercontent.com/VAthedev/VAthedev/main/t%E1%BA%A3i%20xu%E1%BB%91ng.svg)
-![](https://raw.githubusercontent.com/VAthedev/VAthedev/main/VA_Stats.svg)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MdnadeemSarwar&theme=radical&hide_border=false)
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-
+<p align="center">
+  ![](https://raw.githubusercontent.com/VAthedev/VAthedev/main/t%E1%BA%A3i%20xu%E1%BB%91ng.svg)
+  ![](https://raw.githubusercontent.com/VAthedev/VAthedev/main/VA_Stats.svg)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=MdnadeemSarwar&theme=radical&hide_border=false)
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+</p>
 
 <br>
 <h2 align="center">👑 Where to find me 👑</h2>
