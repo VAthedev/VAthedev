@@ -96,15 +96,15 @@
   </p>
 </p>
 
-<br>
+<h2 align="left">⭐ GitHub Stats ⭐</h2>
 <p align="center">
-  <h2 align="left"> ⭐ GitHub Stats  ⭐</h2>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-  ![](https://raw.githubusercontent.com/VAthedev/VAthedev/main/t%E1%BA%A3i%20xu%E1%BB%91ng.svg)
-  ![](https://raw.githubusercontent.com/VAthedev/VAthedev/main/VA_Stats.svg)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=MdnadeemSarwar&theme=radical&hide_border=false)
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+  <img src="https://raw.githubusercontent.com/VAthedev/VAthedev/main/t%E1%BA%A3i%20xu%E1%BB%91ng.svg" />
+  <img src="https://raw.githubusercontent.com/VAthedev/VAthedev/main/VA_Stats.svg" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdnadeemSarwar&theme=radical&hide_border=false" />
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px" />
 </p>
+
 
 <br>
 <h2 align="left">👑 Where to find me 👑</h2>
