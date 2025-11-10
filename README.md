@@ -101,7 +101,7 @@
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <img src="https://raw.githubusercontent.com/VAthedev/VAthedev/main/t%E1%BA%A3i%20xu%E1%BB%91ng.svg" />
   <img src="https://raw.githubusercontent.com/VAthedev/VAthedev/main/VA_Stats.svg" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdnadeemSarwar&theme=radical&hide_border=false" />
+  <img src="total.svg" alt="Top Languages" /> 
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px" />
 </p>
 
