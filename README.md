@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="#" target="_blank">
-    <img src="svg/VAthedev.svg" alt="VAthedev-official" width="800" />
-  </a>
+  <picture>
+    <img src="svg/VAthedev.svg" alt="VAthedev-official" style="max-width: '100%'; height: auto; display: block; margin: auto;">
+  </picture>
 </p>
 
 <h2 align="center">🖥️ Technologies and Tools 🛠</h2>
