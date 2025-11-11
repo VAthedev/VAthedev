@@ -2,7 +2,7 @@
   <a href="https://github.com/VAthedev" target="_blank">
     <img src="https://raw.githubusercontent.com/VAthedev/VAthedev/fae893d961237072f3b7f823e7ded226daa245f3/svg/VAthedev.svg"
          alt="VAthedev-official"
-         width="80%">
+         width="100%">
   </a>
 </p>
 
