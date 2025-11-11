@@ -1,6 +1,32 @@
 <a href="#" target="_blank">
-  <img src="svg/VAthedev.svg" style="max-width:100%; height:auto;" alt="VAthedev-official">
+  <img src="svg/VAthedev.svg" class="logo" alt="VAthedev-official" />
 </a>
+
+<style>
+.logo {
+  width: 1200px;
+  max-width: 100%;
+  height: auto;
+}
+
+@media (max-width: 1200px) {
+  .logo {
+    width: 900px;
+  }
+}
+
+@media (max-width: 768px) {
+  .logo {
+    width: 600px;
+  }
+}
+
+@media (max-width: 640px) {
+  .logo {
+    width: 400px;
+  }
+}
+</style>
 
 
 <h2 align="center">🖥️ Technologies and Tools 🛠</h2>
