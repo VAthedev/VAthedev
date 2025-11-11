@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/VAthedev" target="_blank">
-    <img src="https://raw.githubusercontent.com/VAthedev/VAthedev/ed0bd7b19390486a0044d26b7d93d7e6da7110ad/svg/VAthedev.svg"
+    <img src="https://raw.githubusercontent.com/VAthedev/VAthedev/b55aa4cb2b4bdd2a67d110f84c4f7e2e8dc12845/svg/VAthedev.svg"
          alt="VAthedev-official"
          width="100%">
   </a>
