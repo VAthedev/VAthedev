@@ -5,8 +5,6 @@
          width="100%">
   </a>
 </p>
-
-
 <h2 align="center">🖥️ Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
