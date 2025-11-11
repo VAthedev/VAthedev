@@ -1,6 +1,9 @@
-<a href="#" target="_blank">
-  <img src="svg/VAthedev.svg" alt="VAthedev-official" style="max-width:100%; height:auto;">
-</a>
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="svg/VAthedev.svg" alt="VAthedev-official" width="100%" />
+  </a>
+</p>
+
 
 
 <h2 align="center">🖥️ Technologies and Tools 🛠</h2>
