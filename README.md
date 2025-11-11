@@ -1,6 +1,10 @@
-<a href="#" target="_blank">
-  <img src="svg/VAthedev.svg" width="1200" alt="VAthedev-official" />
-</a>
+<p align="center">
+  <a href="https://github.com/VAthedev" target="_blank">
+    <img src="https://raw.githubusercontent.com/VAthedev/VAthedev/fae893d961237072f3b7f823e7ded226daa245f3/svg/VAthedev.svg"
+         alt="VAthedev-official"
+         width="80%">
+  </a>
+</p>
 
 
 <h2 align="center">🖥️ Technologies and Tools 🛠</h2>
