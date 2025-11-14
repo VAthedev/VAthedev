@@ -34,14 +34,8 @@
   <a href="https://www.json.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/>
   </a>
-  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/>
-  </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/>
-  </a>
-   <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
   </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="developerandroid" width="40" height="40"/>
@@ -55,12 +49,6 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
 
   <p align="center">
     <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
@@ -69,23 +57,8 @@
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
     </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-    </a>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-    </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-    </a>
-    <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
     </a>
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
