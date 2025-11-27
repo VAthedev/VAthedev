@@ -2,7 +2,7 @@
   <a href="https://github.com/VAthedev" target="_blank">
     <img src="https://raw.githubusercontent.com/VAthedev/VAthedev/b55aa4cb2b4bdd2a67d110f84c4f7e2e8dc12845/svg/VAthedev.svg"
          alt="VAthedev-official"
-         width="100%">
+         width="́100%">
   </a>
 </p>
 <h2 align="center">🖥️ Technologies and Tools 🛠</h2>
@@ -74,7 +74,6 @@
 
 <h2 align="left">⭐ GitHub Stats ⭐</h2>
 <p align="center">
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
   <img src="https://raw.githubusercontent.com/VAthedev/VAthedev/main/t%E1%BA%A3i%20xu%E1%BB%91ng.svg" />
   <img src="https://raw.githubusercontent.com/VAthedev/VAthedev/main/VA_Stats.svg" /><br/>
   <img src="total.svg" alt="Top Languages" /> 
@@ -85,23 +84,19 @@
 <br>
 <h2 align="left">👑 Where to find me 👑</h2>
 <br>
-<!-- https://icons8.com -->
 
   </a>
   <a href="https://www.facebook.com/VacT.01" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="VacT.01" />
   </a>
-  <a href="" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="VacT.01" />
+    <a href="mailto:24521972@gm.uit.edu.vn" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="VacT.01" />
   </a>
   <a href="" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="VacT.01" />
   </a>
   <a href="https://www.instagram.com/1.vact" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="VacT.01" />
-  </a>
-  <a href="mailto:24521972@gm.uit.edu.vn" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="VacT.01" />
   </a>
 </div>
 
