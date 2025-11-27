@@ -7,7 +7,6 @@
 </p>
 <h2 align="center">🖥️ Technologies and Tools 🛠</h2>
 <br>
-<!-- https://simpleicons.org/ -->
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -76,7 +75,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/VAthedev/VAthedev/main/t%E1%BA%A3i%20xu%E1%BB%91ng.svg" />
   <img src="https://raw.githubusercontent.com/VAthedev/VAthedev/main/VA_Stats.svg" /><br/>
-  <img src="total.svg" alt="Top Languages" /> 
+  <img src="https://raw.githubusercontent.com/VAthedev/VAthedev/a5db48546679a48ddae2302cd015dd4635b3f5a5/total.svg" alt="Top Languages" /> 
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px" />
 </p>
 
